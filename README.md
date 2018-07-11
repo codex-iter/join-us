@@ -6,7 +6,7 @@ founded in 2016. We bring in budding coders as well as the experienced ones and 
 
 * Step 1: Have a [Github](https://github.com/) account.
 
-* Step 2: Complete the first 5 questions of [Project Euler](https://projecteuler.net/archives). Commit it to a repo in your github account. If you are new to github you can get help [here](https://help.github.com/) or you can always google it. After completion ping us [here](https://t.me/codexinit) with the following details.
+* Step 2: Complete the first 10 questions of [Project Euler](https://projecteuler.net/archives). Commit it to a repo in your github account. If you are new to github you can get help [here](https://help.github.com/) or you can always google it. After completion ping us [here](https://t.me/codexinit) with the following details.
 
 	- Name.
 	- Email-id.
