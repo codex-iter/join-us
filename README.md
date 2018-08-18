@@ -12,7 +12,11 @@ You can find our work [here](https://github.com/codex-iter).
 * Step 1: Have a [Github](https://github.com/) account.
 
 * Step 2: Complete the first 10 questions of [Project Euler](https://projecteuler.net/archives).
-	Commit it to a repo in your Github account.
+	**Please verify your answers on the website.**
+	
+	You can do this by making an account and submitting your output on the respective problem pages.
+	
+	Push it to a repository in your Github account.
 	If you are new to Github you can get help [here](https://help.github.com/) or you can always google it.
 	After completion ping us [here](https://t.me/codexinit) with the following details.
 
