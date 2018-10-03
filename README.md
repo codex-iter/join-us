@@ -35,6 +35,6 @@ You can find our work [here](https://github.com/codex-iter).
 
 * Step 4: Once you have succesfully completed the minor project, you are now a member of our community. You can then check out our major projects and start working on them.
 
-* Step 5: You can help to promote about the community amomg your friends and help out the newbies in the chatroom.
+* Step 5: You can help to promote about the community among your friends and help out the newbies in the chatroom.
 	You can also add your ideas regarding new major and minor projects which, can be added to [official project list](https://github.com/codex-iter/Official-Project-List).
 	You can then work on your projects with other members. 
