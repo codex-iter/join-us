@@ -1,5 +1,6 @@
 # CODEX
-![](https://img.shields.io/badge/codex-ITER-blue.svg?style=for-the-badge)
+![](https://img.shields.io/badge/codex-ITER-blue.svg?style=for-the-badge&colorB=00ccff&logo=github)
+[![Telegram](https://img.shields.io/badge/telegram-join-blue.svg?longCache=true&colorB=00ccff&style=for-the-badge&logo=telegram)](https://t.me/codexinit)
 ---
 
 *Codex* is the official coding community of [Institute of Technical Education and Research](http://iter.ac.in/).
@@ -36,5 +37,5 @@ You can find our work [here](https://github.com/codex-iter).
 * Step 4: Once you have succesfully completed the minor project, you are now a member of our community. You can then check out our major projects and start working on them.
 
 * Step 5: You can help to promote about the community among your friends and help out the newbies in the chatroom.
-	You can also add your ideas regarding new major and minor projects which, can be added to [official project list](https://github.com/codex-iter/Official-Project-List).
+	You can also add your ideas regarding new major and minor projects which, can be added to [Project list](https://github.com/codex-iter/project-ideas).
 	You can then work on your projects with other members. 
