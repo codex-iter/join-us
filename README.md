@@ -25,7 +25,7 @@ You can find our work [here](https://github.com/codex-iter).
 	- Email-id.
 	- Branch, section and semester. 
 	- Phone no.
-	- Github link to your account.
+	- Github link to your euler project solutions repository.
 	
 	If you're stuck while solving the questions, you can ask for help [here](https://t.me/codexinit)
 
