@@ -12,6 +12,8 @@ You can find our work [here](https://github.com/codex-iter).
 
 [Note: Telegram website and web-services are blocked by Indian ISPs. Use of the mobile app ([Android](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_US)/[iOS](https://itunes.apple.com/us/app/telegram-messenger/id686449807)) is preferred.]
 
+### [NOTE: For people who are newcomers to ITER, please register [here](http://tiny.cc/codexreg)]
+
 * Step 1: Have a [Github](https://github.com/) account.
 
 * Step 2: Complete the first 10 questions of [Project Euler](https://projecteuler.net/archives).
