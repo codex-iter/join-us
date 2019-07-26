@@ -9,6 +9,9 @@ We also collaborate with coding community around Bhubaneswar to increase the exp
 You can find our work [here](https://github.com/codex-iter).
 
 ## How to join Codex
+Join our telegram group for help, Telegram is a messaging app similar to whatsapp.   
+Click this [link](https://t.me/codexinit) to join the telegram group.   
+Read the below document to learn more about the evaluation process.
 
 [Note: Telegram website and web-services are blocked by Indian ISPs. Use of the mobile app ([Android](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_US)/[iOS](https://itunes.apple.com/us/app/telegram-messenger/id686449807)) is preferred.]
 
