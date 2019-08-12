@@ -12,7 +12,7 @@ You can find our work [here](https://github.com/codex-iter).
 Join our telegram group for help, Telegram is a messaging app similar to WhatsApp.   
 
 
-[Telegram Group ivitation link](https://t.me/codexinit).
+[Telegram Group invitation link](https://t.me/codexinit).
 
 [Note: Telegram website and web-services are blocked by Indian ISPs. Use of the mobile app ([Android](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_US) / [iOS](https://itunes.apple.com/us/app/telegram-messenger/id686449807)) is preferred. You can also download the telegram desktop client for ([Windows](https://www.microsoft.com/en-us/p/telegram-desktop/9nztwsqntd0s?activetab=pivot:overviewtab) / [Linux](https://telegram.org/dl/desktop/linux))]
 
