@@ -16,6 +16,8 @@ Join our telegram group for help, Telegram is a messaging app similar to WhatsAp
 
 [Note: Telegram website and web-services are blocked by Indian ISPs. Use of the mobile app ([Android](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_US) / [iOS](https://itunes.apple.com/us/app/telegram-messenger/id686449807)) is preferred. You can also download the telegram desktop client for ([Windows](https://www.microsoft.com/en-us/p/telegram-desktop/9nztwsqntd0s?activetab=pivot:overviewtab) / [Linux](https://telegram.org/dl/desktop/linux))]
 
+**[Important Note: When you join the telegram group, make sure your first message contains your details as mentioned below in Step 2, if you fail to do so then we will kick you out of the group or ban you from joining the group. We DO NOT tolerate spamming]**
+
 ---
 
 **Read the below document to learn more about the evaluation process.**
