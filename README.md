@@ -34,7 +34,7 @@ Join our telegram group for help, Telegram is a messaging app similar to WhatsAp
 	
 	Push it to a repository in your Github account in the following format.
 	
-	- Repository should be named 'project-euler' so something similar
+	- Repository should be named 'project-euler' or something similar
 	- Filenames should have proper extensions. (Yeah, we know)
 	- Filenames should be numbered according to problem number.
 	- Add the question statement as comments on top of your solution.
