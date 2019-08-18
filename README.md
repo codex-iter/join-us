@@ -20,7 +20,7 @@ Join our telegram group for help, Telegram is a messaging app similar to WhatsAp
 
 ---
 
-**Read the below document to learn more about the evaluation process.**
+### **Read the below document to learn more about the evaluation process.**
 
 * Step 1: Have a [Github](https://github.com/) account. Please take time to learn how Github works.
 	You can get help [here](https://guides.github.com/)
